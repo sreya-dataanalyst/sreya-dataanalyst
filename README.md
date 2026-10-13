@@ -25,12 +25,12 @@ I turn ambiguous business problems into KPI frameworks, governed datasets, and d
 
 | Project | What it does | Skills |
 |---|---|---|
-| [sales-customer-analytics](https://github.com/YOUR-GITHUB-USERNAME/sales-customer-analytics) | Retail revenue & customer analytics: SQL KPI queries, RFM segmentation, KPI dashboard | SQL, Python, EDA, Dashboards |
-| [banking-customer-churn-prediction](https://github.com/YOUR-GITHUB-USERNAME/banking-customer-churn-prediction) | Churn prediction pipeline: feature engineering, logistic regression vs random forest | Python, Pandas, scikit-learn |
-| [healthcare-claims-analytics](https://github.com/YOUR-GITHUB-USERNAME/healthcare-claims-analytics) | Claims cost-driver analysis on a star-schema model: PMPM, ER utilization, provider concentration | SQL, Data Modeling, Dashboards |
-| [etl-data-warehouse-pipeline](https://github.com/YOUR-GITHUB-USERNAME/etl-data-warehouse-pipeline) | End-to-end ETL: messy raw data → validated warehouse with SCD Type 2 dimensions | Python, SQL, ETL, Data Quality |
-| [customer-sentiment-nlp](https://github.com/YOUR-GITHUB-USERNAME/customer-sentiment-nlp) | Review sentiment analysis: TF-IDF + logistic regression vs Naive Bayes, n-gram insight mining | NLP, scikit-learn, Visualization |
-| [financial-fraud-detection](https://github.com/YOUR-GITHUB-USERNAME/financial-fraud-detection) | Fraud detection: business rules + Isolation Forest anomaly detection with risk scoring | SQL, Python, Anomaly Detection |
+| [sales-customer-analytics](https://github.com/sreyapeddu-analytics/sales-customer-analytics) | Retail revenue & customer analytics: SQL KPI queries, RFM segmentation, KPI dashboard | SQL, Python, EDA, Dashboards |
+| [banking-customer-churn-prediction](https://github.com/sreyapeddu-analytics/banking-customer-churn-prediction) | Churn prediction pipeline: feature engineering, logistic regression vs random forest | Python, Pandas, scikit-learn |
+| [healthcare-claims-analytics](https://github.com/sreyapeddu-analytics/healthcare-claims-analytics) | Claims cost-driver analysis on a star-schema model: PMPM, ER utilization, provider concentration | SQL, Data Modeling, Dashboards |
+| [etl-data-warehouse-pipeline](https://github.com/sreyapeddu-analytics/etl-data-warehouse-pipeline) | End-to-end ETL: messy raw data → validated warehouse with SCD Type 2 dimensions | Python, SQL, ETL, Data Quality |
+| [customer-sentiment-nlp](https://github.com/sreyapeddu-analytics/customer-sentiment-nlp) | Review sentiment analysis: TF-IDF + logistic regression vs Naive Bayes, n-gram insight mining | NLP, scikit-learn, Visualization |
+| [financial-fraud-detection](https://github.com/sreyapeddu-analytics/financial-fraud-detection) | Fraud detection: business rules + Isolation Forest anomaly detection with risk scoring | SQL, Python, Anomaly Detection |
 
 > All projects use **synthetic data** and are portfolio pieces demonstrating applied skills — no real company or customer data.
 
@@ -42,8 +42,8 @@ I turn ambiguous business problems into KPI frameworks, governed datasets, and d
 
 ## 📊 GitHub Stats
 
-![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact)
+![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyapeddu-analytics&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyapeddu-analytics&layout=compact)
 
 ## 📫 Connect
 
