@@ -45,6 +45,8 @@ I turn ambiguous business problems into KPI frameworks, governed datasets, and d
 [![ETL Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=etl-data-warehouse-pipeline)](https://github.com/sreyapeddu-analytics/etl-data-warehouse-pipeline)
 [![Sentiment NLP](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=customer-sentiment-nlp)](https://github.com/sreyapeddu-analytics/customer-sentiment-nlp)
 [![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=financial-fraud-detection)](https://github.com/sreyapeddu-analytics/financial-fraud-detection)
+[![A/B Testing](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=ab-testing-experimentation)](https://github.com/sreyapeddu-analytics/ab-testing-experimentation)
+[![dbt Analytics Engineering](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=dbt-analytics-engineering)](https://github.com/sreyapeddu-analytics/dbt-analytics-engineering)
 
 Each repo ships with an **executed Jupyter notebook**, **SQL analysis**, **charts**, and a **business-style README** — built to be read like a case study, not a code dump.
 
