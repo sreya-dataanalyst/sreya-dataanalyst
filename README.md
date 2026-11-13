@@ -38,14 +38,14 @@ I turn ambiguous business problems into KPI frameworks, governed datasets, and d
 
 > All projects are **portfolio pieces built on synthetic data** — real code, real analysis, zero real customer data.
 
-[![Sales & Customer Analytics](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=sales-customer-analytics)](https://github.com/sreyapeddu-analytics/sales-customer-analytics)
-[![Banking Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=banking-customer-churn-prediction)](https://github.com/sreyapeddu-analytics/banking-customer-churn-prediction)
-[![Healthcare Claims Analytics](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=healthcare-claims-analytics)](https://github.com/sreyapeddu-analytics/healthcare-claims-analytics)
-[![ETL Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=etl-data-warehouse-pipeline)](https://github.com/sreyapeddu-analytics/etl-data-warehouse-pipeline)
-[![Sentiment NLP](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=customer-sentiment-nlp)](https://github.com/sreyapeddu-analytics/customer-sentiment-nlp)
-[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=financial-fraud-detection)](https://github.com/sreyapeddu-analytics/financial-fraud-detection)
-[![A/B Testing](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=ab-testing-experimentation)](https://github.com/sreyapeddu-analytics/ab-testing-experimentation)
-[![dbt Analytics Engineering](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-analytics&repo=dbt-analytics-engineering)](https://github.com/sreyapeddu-analytics/dbt-analytics-engineering)
+[![Sales & Customer Analytics](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=sales-customer-analytics)](https://github.com/sreya-dataanalyst/sales-customer-analytics)
+[![Banking Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=banking-customer-churn-prediction)](https://github.com/sreya-dataanalyst/banking-customer-churn-prediction)
+[![Healthcare Claims Analytics](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=healthcare-claims-analytics)](https://github.com/sreya-dataanalyst/healthcare-claims-analytics)
+[![ETL Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=etl-data-warehouse-pipeline)](https://github.com/sreya-dataanalyst/etl-data-warehouse-pipeline)
+[![Sentiment NLP](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=customer-sentiment-nlp)](https://github.com/sreya-dataanalyst/customer-sentiment-nlp)
+[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=financial-fraud-detection)](https://github.com/sreya-dataanalyst/financial-fraud-detection)
+[![A/B Testing](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=ab-testing-experimentation)](https://github.com/sreya-dataanalyst/ab-testing-experimentation)
+[![dbt Analytics Engineering](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=dbt-analytics-engineering)](https://github.com/sreya-dataanalyst/dbt-analytics-engineering)
 
 Each repo ships with an **executed Jupyter notebook**, **SQL analysis**, **charts**, and a **business-style README** — built to be read like a case study, not a code dump.
 
@@ -53,9 +53,9 @@ Each repo ships with an **executed Jupyter notebook**, **SQL analysis**, **chart
 
 <div align="center">
 
-![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyapeddu-analytics&show_icons=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyapeddu-analytics&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=sreyapeddu-analytics)
+![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-dataanalyst&show_icons=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-dataanalyst&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=sreya-dataanalyst)
 
 </div>
 
@@ -78,7 +78,7 @@ Each repo ships with an **executed Jupyter notebook**, **SQL analysis**, **chart
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sreyapeddu-analytics&color=2E9CD3)
+![Visitor Count](https://komarev.com/ghpvc/?username=sreya-dataanalyst&color=2E9CD3)
 
 *Thanks for stopping by — happy analyzing!* 📊
 
