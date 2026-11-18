@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9CD3&center=true&vCenter=true&width=650&lines=Senior+Data+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Snowflake+%E2%80%A2+dbt;Tableau+%E2%80%A2+Power+BI+%E2%80%A2+Machine+Learning;I+turn+data+into+decisions)](https://git.io/typing-svg)
 
-🎯 Senior Data Analyst 
 
 
 </div>
