@@ -103,20 +103,24 @@ I also build data foundations for generative AI and machine learning — **RAG p
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects — Data Engineering
 
-> Portfolio projects built on **synthetic data** — real engineering patterns, real code, zero real customer, patient, or market data.
+> All old Data Analyst projects have been removed from this profile. The projects below are data engineering portfolio projects built on **synthetic data only** — real production patterns, zero real patient, customer, or market data.
 
-[![ETL Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=etl-data-warehouse-pipeline)](https://github.com/sreya-dataanalyst/etl-data-warehouse-pipeline)
-[![dbt Analytics Engineering](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=dbt-analytics-engineering)](https://github.com/sreya-dataanalyst/dbt-analytics-engineering)
-[![Healthcare Claims Analytics](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=healthcare-claims-analytics)](https://github.com/sreya-dataanalyst/healthcare-claims-analytics)
-[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=financial-fraud-detection)](https://github.com/sreya-dataanalyst/financial-fraud-detection)
-[![Banking Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=banking-customer-churn-prediction)](https://github.com/sreya-dataanalyst/banking-customer-churn-prediction)
-[![Sales & Customer Analytics](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=sales-customer-analytics)](https://github.com/sreya-dataanalyst/sales-customer-analytics)
-[![Sentiment NLP](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=customer-sentiment-nlp)](https://github.com/sreya-dataanalyst/customer-sentiment-nlp)
-[![A/B Testing](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=ab-testing-experimentation)](https://github.com/sreya-dataanalyst/ab-testing-experimentation)
+[![Databricks PySpark ETL](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=databricks-pyspark-etl-pipeline)](https://github.com/sreya-dataanalyst/databricks-pyspark-etl-pipeline)
+[![dbt Snowflake Modeling](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=dbt-snowflake-data-modeling)](https://github.com/sreya-dataanalyst/dbt-snowflake-data-modeling)
+[![Kafka Streaming Ingestion](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=kafka-streaming-ingestion)](https://github.com/sreya-dataanalyst/kafka-streaming-ingestion)
+[![Delta Lake Medallion](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=delta-lake-medallion-architecture)](https://github.com/sreya-dataanalyst/delta-lake-medallion-architecture)
+[![Airflow Orchestration](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=airflow-orchestration-platform)](https://github.com/sreya-dataanalyst/airflow-orchestration-platform)
+[![Terraform Data Platform](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=terraform-data-platform-iac)](https://github.com/sreya-dataanalyst/terraform-data-platform-iac)
 
-Engineering focus across the portfolio: end-to-end ETL pipelines to validated warehouses with **SCD Type 2** dimensions, a production-style **dbt** project with tested marts, star-schema healthcare modeling, and streaming-style anomaly / fraud detection patterns.
+- **Databricks PySpark ETL Pipeline** — Python/PySpark/Spark SQL on Databricks, Delta Lake lakehouse ingestion from EHR, SQL Server and REST API sources, CDC/incremental loads, Unity Catalog HIPAA governance
+- **dbt + Snowflake Data Modeling** — dimensional star schema, SCD Type 2, incremental dbt models and tests for financial reporting and healthcare marts; Informatica-to-dbt migration patterns
+- **Apache Airflow Orchestration Platform** — DAG design, Cloud Composer patterns, SLA alerts, retries, backfills, pipeline monitoring and observability
+- **Kafka Streaming Ingestion** — fault-tolerant Kafka ingestion, Schema Registry and schema evolution, Spark Structured Streaming and Flink for real-time clinical and market data events
+- **Delta Lake Medallion Architecture** — Bronze/Silver/Gold lakehouse, CDC MERGE/upsert on Delta Lake and Iceberg, OPTIMIZE/Z-ORDER and partition pruning
+- **Terraform Data Platform IaC** — Terraform modules, Docker/Kubernetes, GitHub Actions / Jenkins / Azure DevOps CI/CD for data platform delivery
+- **GenAI RAG Data Pipeline** — [github.com/sreya-dataanalyst/genai-rag-data-pipeline](https://github.com/sreya-dataanalyst/genai-rag-data-pipeline) — chunking, PHI de-identification, embeddings and vector database loading for RAG, plus MLflow-tracked PySpark feature pipelines
 
 ---
 
