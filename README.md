@@ -103,24 +103,27 @@ I also build data foundations for generative AI and machine learning — **RAG p
 
 ---
 
-## 📌 Featured Projects — Data Engineering
+## 📌 Featured Projects — 5 Data Engineering + 2 GenAI
 
-> All old Data Analyst projects have been removed from this profile. The projects below are data engineering portfolio projects built on **synthetic data only** — real production patterns, zero real patient, customer, or market data.
+> Seven flagship portfolio projects built from scratch on **synthetic data only** — 5 data engineering, 2 GenAI implementation & engineering. Real production patterns, zero real patient, customer, or market data.
 
-[![Databricks PySpark ETL](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=databricks-pyspark-etl-pipeline)](https://github.com/sreya-dataanalyst/databricks-pyspark-etl-pipeline)
+[![Healthcare Data Lakehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=databricks-pyspark-etl-pipeline)](https://github.com/sreya-dataanalyst/databricks-pyspark-etl-pipeline)
+[![Real-Time Streaming Ingestion](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=kafka-streaming-ingestion)](https://github.com/sreya-dataanalyst/kafka-streaming-ingestion)
 [![dbt Snowflake Modeling](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=dbt-snowflake-data-modeling)](https://github.com/sreya-dataanalyst/dbt-snowflake-data-modeling)
-[![Kafka Streaming Ingestion](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=kafka-streaming-ingestion)](https://github.com/sreya-dataanalyst/kafka-streaming-ingestion)
-[![Delta Lake Medallion](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=delta-lake-medallion-architecture)](https://github.com/sreya-dataanalyst/delta-lake-medallion-architecture)
-[![Airflow Orchestration](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=airflow-orchestration-platform)](https://github.com/sreya-dataanalyst/airflow-orchestration-platform)
+[![Airflow ELT with Data Quality](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=airflow-orchestration-platform)](https://github.com/sreya-dataanalyst/airflow-orchestration-platform)
 [![Terraform Data Platform](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=terraform-data-platform-iac)](https://github.com/sreya-dataanalyst/terraform-data-platform-iac)
+[![GenAI RAG Data Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=genai-rag-data-pipeline)](https://github.com/sreya-dataanalyst/genai-rag-data-pipeline)
 
-- **Databricks PySpark ETL Pipeline** — Python/PySpark/Spark SQL on Databricks, Delta Lake lakehouse ingestion from EHR, SQL Server and REST API sources, CDC/incremental loads, Unity Catalog HIPAA governance
-- **dbt + Snowflake Data Modeling** — dimensional star schema, SCD Type 2, incremental dbt models and tests for financial reporting and healthcare marts; Informatica-to-dbt migration patterns
-- **Apache Airflow Orchestration Platform** — DAG design, Cloud Composer patterns, SLA alerts, retries, backfills, pipeline monitoring and observability
-- **Kafka Streaming Ingestion** — fault-tolerant Kafka ingestion, Schema Registry and schema evolution, Spark Structured Streaming and Flink for real-time clinical and market data events
-- **Delta Lake Medallion Architecture** — Bronze/Silver/Gold lakehouse, CDC MERGE/upsert on Delta Lake and Iceberg, OPTIMIZE/Z-ORDER and partition pruning
-- **Terraform Data Platform IaC** — Terraform modules, Docker/Kubernetes, GitHub Actions / Jenkins / Azure DevOps CI/CD for data platform delivery
-- **GenAI RAG Data Pipeline** — [github.com/sreya-dataanalyst/genai-rag-data-pipeline](https://github.com/sreya-dataanalyst/genai-rag-data-pipeline) — chunking, PHI de-identification, embeddings and vector database loading for RAG, plus MLflow-tracked PySpark feature pipelines
+### Data Engineering (5)
+1. **Healthcare Data Lakehouse — Databricks + Delta Lake Medallion Architecture** — lakehouse ingestion of clinical/claims data into Bronze/Silver/Gold layers, CDC/incremental loads, Unity Catalog HIPAA governance
+2. **Real-Time Streaming Ingestion — Apache Kafka + Spark Structured Streaming** — Schema Registry, schema evolution, fault-tolerant streaming for clinical and market data events
+3. **dbt + Snowflake Dimensional Modeling** — star schema, SCD Type 2, incremental dbt models and tests for financial reporting and healthcare marts
+4. **Airflow-Orchestrated ELT with Data Quality** — Airflow DAGs, SLA alerts, retries/backfills, Great Expectations validation, GitHub Actions CI/CD
+5. **Terraform Data Platform IaC** — Terraform modules, Docker/Kubernetes, GitHub Actions / Jenkins / Azure DevOps CI/CD for cloud data platform delivery
+
+### GenAI Implementation & Engineering (2)
+6. **GenAI / RAG Data Pipeline** — document chunking, PHI de-identification, embeddings and vector database loading for LLM-powered internal search, plus MLflow-tracked PySpark feature pipelines
+7. **GenAI LLM Search & Summarization — Financial Filings & News Pipeline** — [github.com/sreya-dataanalyst/genai-llm-financial-search](https://github.com/sreya-dataanalyst/genai-llm-financial-search) — parsing, chunking and embedding filings/news into vector databases for LLM-powered search and summarization
 
 ---
 
