@@ -107,12 +107,12 @@ I also build data foundations for generative AI and machine learning — **RAG p
 
 > Seven flagship portfolio projects built from scratch on **synthetic data only** — 5 data engineering, 2 GenAI implementation & engineering. Real production patterns, zero real patient, customer, or market data.
 
-[![Healthcare Data Lakehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=databricks-pyspark-etl-pipeline)](https://github.com/sreya-dataanalyst/databricks-pyspark-etl-pipeline)
-[![Real-Time Streaming Ingestion](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=kafka-streaming-ingestion)](https://github.com/sreya-dataanalyst/kafka-streaming-ingestion)
-[![dbt Snowflake Modeling](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=dbt-snowflake-data-modeling)](https://github.com/sreya-dataanalyst/dbt-snowflake-data-modeling)
-[![Airflow ELT with Data Quality](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=airflow-orchestration-platform)](https://github.com/sreya-dataanalyst/airflow-orchestration-platform)
-[![Terraform Data Platform](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=terraform-data-platform-iac)](https://github.com/sreya-dataanalyst/terraform-data-platform-iac)
-[![GenAI RAG Data Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=sreya-dataanalyst&repo=genai-rag-data-pipeline)](https://github.com/sreya-dataanalyst/genai-rag-data-pipeline)
+[![Healthcare Data Lakehouse](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-dataengineer&repo=databricks-pyspark-etl-pipeline)](https://github.com/sreyapeddu-dataengineer/databricks-pyspark-etl-pipeline)
+[![Real-Time Streaming Ingestion](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-dataengineer&repo=kafka-streaming-ingestion)](https://github.com/sreyapeddu-dataengineer/kafka-streaming-ingestion)
+[![dbt Snowflake Modeling](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-dataengineer&repo=dbt-snowflake-data-modeling)](https://github.com/sreyapeddu-dataengineer/dbt-snowflake-data-modeling)
+[![Airflow ELT with Data Quality](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-dataengineer&repo=airflow-orchestration-platform)](https://github.com/sreyapeddu-dataengineer/airflow-orchestration-platform)
+[![Terraform Data Platform](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-dataengineer&repo=terraform-data-platform-iac)](https://github.com/sreyapeddu-dataengineer/terraform-data-platform-iac)
+[![GenAI RAG Data Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=sreyapeddu-dataengineer&repo=genai-rag-data-pipeline)](https://github.com/sreyapeddu-dataengineer/genai-rag-data-pipeline)
 
 ### Data Engineering (5)
 1. **Healthcare Data Lakehouse — Databricks + Delta Lake Medallion Architecture** — lakehouse ingestion of clinical/claims data into Bronze/Silver/Gold layers, CDC/incremental loads, Unity Catalog HIPAA governance
@@ -123,7 +123,7 @@ I also build data foundations for generative AI and machine learning — **RAG p
 
 ### GenAI Implementation & Engineering (2)
 6. **GenAI / RAG Data Pipeline** — document chunking, PHI de-identification, embeddings and vector database loading for LLM-powered internal search, plus MLflow-tracked PySpark feature pipelines
-7. **GenAI LLM Search & Summarization — Financial Filings & News Pipeline** — [github.com/sreya-dataanalyst/genai-llm-financial-search](https://github.com/sreya-dataanalyst/genai-llm-financial-search) — parsing, chunking and embedding filings/news into vector databases for LLM-powered search and summarization
+7. **GenAI LLM Search & Summarization — Financial Filings & News Pipeline** — [github.com/sreyapeddu-dataengineer/genai-llm-financial-search](https://github.com/sreyapeddu-dataengineer/genai-llm-financial-search) — parsing, chunking and embedding filings/news into vector databases for LLM-powered search and summarization
 
 ---
 
@@ -131,9 +131,9 @@ I also build data foundations for generative AI and machine learning — **RAG p
 
 <div align="center">
 
-![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-dataanalyst&show_icons=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-dataanalyst&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=sreya-dataanalyst)
+![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyapeddu-dataengineer&show_icons=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyapeddu-dataengineer&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=sreyapeddu-dataengineer)
 
 </div>
 
@@ -164,7 +164,7 @@ I also build data foundations for generative AI and machine learning — **RAG p
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sreya-dataanalyst&color=2E9CD3)
+![Visitor Count](https://komarev.com/ghpvc/?username=sreyapeddu-dataengineer&color=2E9CD3)
 
 *Thanks for stopping by — happy engineering!* ⚙️
 
